@@ -9,7 +9,7 @@
 
 # Basic Rappel
 
-This script was made for a mil-sim based FiveM server and the owner asked us to release it to the public. Therefore, here is yet another rappel script. However this one has just what it's need, so no trash code and no unnecessary shit.
+This script was made for a mil-sim based FiveM server and the owner asked us to release it to the public. Therefore, here is yet another rappel script. However this one has just what it needs, so no trash code and no unnecessary shit.
 
 ## Features:
 - whitelist a selection of vehicles from which player can rappel
